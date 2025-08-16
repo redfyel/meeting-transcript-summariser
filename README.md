@@ -59,7 +59,10 @@ This project allows users to:
 
 ## Deployed Link
 
-[Live Demo]()
+[Live Demo](https://meeting-transcript-summariser.vercel.app/)
+
+## Demo Video
+[Watch Demo](https://drive.google.com/file/d/1YGvhl4U9Sx2za6pezsQohL94HXx7dA0r/view?usp=sharing)
 
 ## License
 
